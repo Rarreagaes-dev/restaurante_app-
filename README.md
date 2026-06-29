@@ -10,6 +10,7 @@ Este proyecto corresponde a la actividad de la Semana 5 de la asignatura Program
 
 ## Estructura del proyecto
 
+```
 restaurante_app/
 ├── modelos/
 │   ├── __init__.py
@@ -19,6 +20,7 @@ restaurante_app/
 │   ├── __init__.py
 │   └── restaurante.py
 └── main.py
+```
 
 ## Tipos de datos utilizados
 
