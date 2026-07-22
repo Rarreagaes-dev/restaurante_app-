@@ -11,14 +11,18 @@ Este proyecto corresponde a la Semana 6 de Programación Orientada a Objetos. El
 ## Estructura
 
 ```
-restaurante_app/
-├── modelos/
-│   ├── producto.py
-│   ├── platillo.py
-│   └── bebida.py
-├── servicios/
-│   └── restaurante.py
-└── main.py
+Repositorio GitHub
+├── restaurante_app/
+│   ├── modelos/
+│   │   ├── __init__.py
+│   │   ├── producto.py
+│   │   ├── platillo.py
+│   │   └── bebida.py
+│   ├── servicios/
+│   │   ├── __init__.py
+│   │   └── restaurante.py
+│   └── main.py
+└── README.md
 ```
 
 ## Herencia
